@@ -1,0 +1,60 @@
+<resources>
+    <string name="displayHint">Enter your problem</string>
+    <string name="app_name">Calc</string>
+    <string name="oneText">1</string>
+    <string name="twoText">2</string>
+    <string name="threeText">3</string>
+    <string name="fourText">4</string>
+    <string name="fiveText">5</string>
+    <string name="sixText">6</string>
+    <string name="sevenText">7</string>
+    <string name="eightText">8</string>
+    <string name="nineText">9</string>
+    <string name="zeroText">0</string>
+    <string name="clearText">C</string>
+    <string name="allClearText">AC</string>
+    <string name="signChangeText">+/-</string>
+    <string name="divideText">/</string>
+    <string name="multiplyText">*</string>
+    <string name="addText">+</string>
+    <string name="subtractText">-</string>
+    <string name="decimalText">.</string>
+    <string name="equalsText">=</string>
+    <string name="simple">Simple</string>
+    <string name="advanced">Advanced</string>
+    <string name="about">About</string>
+    <string name="exit">Exit</string>
+    <string name="сalсulator">СALСULATOR</string>
+    <string name="sqrt">sqrt</string>
+    <string name="x_y">x^y</string>
+    <string name="x_2">x^2</string>
+    <string name="proc">%</string>
+    <string name="sin">sin</string>
+    <string name="cos">cos</string>
+    <string name="div">/</string>
+    <string name="ln">ln</string>
+    <string name="lg">lg</string>
+    <string name="one">1</string>
+    <string name="two">2</string>
+    <string name="three">3</string>
+    <string name="add">+</string>
+    <string name="equals">=</string>
+    <string name="four">4</string>
+    <string name="five">5</string>
+    <string name="six">6</string>
+    <string name="sub">-</string>
+    <string name="signChange">+/-</string>
+    <string name="seven">7</string>
+    <string name="eight">8</string>
+    <string name="nine">9</string>
+    <string name="mult">*</string>
+    <string name="clear">C</string>
+    <string name="zero">0</string>
+    <string name="dot">.</string>
+    <string name="ac">AC</string>
+    <string name="tan">tan</string>
+    <string name="aboutText">About</string>
+    <string name="about_description_text">This is simple/advanced calculator app</string>
+    <string name="back">BACK</string>
+
+</resources>
